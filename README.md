@@ -3,11 +3,18 @@
 
 > https://www.youtube.com/watch?v=SVvr3ZjtjI8
 > 
+###############################################
 #### How to create a console program in C# ####
 #### Step 1 - dotnet new console -o <FolderName> #### ---- -o option is to create output folder / project folder ---- ####
 #### Step 2 - move inside the project folder ####
 #### Step 3 - dotnet run ////to run the project ####
+###############################################
 
+###############################################
+#### remove a file in the remote repo after deleting locally -  git rm unwanted0file.txt
+
+#### remove a file remotely without removing it locally - git rm --cached unwanted-file.txt
+###############################################
 
 
 
