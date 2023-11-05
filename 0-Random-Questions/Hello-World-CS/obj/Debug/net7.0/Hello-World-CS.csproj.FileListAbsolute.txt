@@ -1,0 +1,14 @@
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\bin\Debug\net7.0\Hello-World-CS.exe
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\bin\Debug\net7.0\Hello-World-CS.deps.json
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\bin\Debug\net7.0\Hello-World-CS.runtimeconfig.json
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\bin\Debug\net7.0\Hello-World-CS.dll
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\bin\Debug\net7.0\Hello-World-CS.pdb
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\Hello-World-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\Hello-World-CS.AssemblyInfoInputs.cache
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\Hello-World-CS.AssemblyInfo.cs
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\Hello-World-CS.csproj.CoreCompileInputs.cache
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\Hello-World-CS.dll
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\refint\Hello-World-CS.dll
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\Hello-World-CS.pdb
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\Hello-World-CS.genruntimeconfig.cache
+C:\code\Top75LeetCodeQuestions\0-Random-Questions\Hello-World-CS\obj\Debug\net7.0\ref\Hello-World-CS.dll
