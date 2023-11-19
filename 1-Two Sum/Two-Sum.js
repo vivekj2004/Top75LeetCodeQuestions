@@ -23,3 +23,5 @@ var twoSum = function(nums, target) {
     }
     
 };
+
+console.log( twoSum([0, 1, 2, 3, 4, 55, 44], 99) )
