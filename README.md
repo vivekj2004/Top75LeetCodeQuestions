@@ -13,7 +13,7 @@
 ###############################################
 #### remove a file in the remote repo after deleting locally -  git rm unwanted0file.txt
 
-#### remove a file remotely without removing it locally - git rm --cached unwanted-file.txt
+#### remove a file remotely without removing it locally - git rm --cached unwanted-file.txtHi ev
 ###############################################
 
 
